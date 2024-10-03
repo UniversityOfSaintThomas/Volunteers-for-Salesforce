@@ -7,13 +7,15 @@
 /test_results.xml
 build.properties
 salesforce.schema
-src/layouts/Global-Global Layout.layout
-src/profiles/Customer Community Login User.profile
-src/profiles/Customer Community User.profile
-src/profiles/Partner Community Login User.profile
-src/profiles/Partner Community User.profile
-src/workflows/User.workflow
+src-orig/layouts/Global-Global Layout.layout
+src-orig/profiles/Customer Community Login User.profile
+src-orig/profiles/Customer Community User.profile
+src-orig/profiles/Partner Community Login User.profile
+src-orig/profiles/Partner Community User.profile
+src-orig/workflows/User.workflow
 **/.sfdx/
 **/.vscode/
 .cci
 test_results.*
+.idea
+*.iml
